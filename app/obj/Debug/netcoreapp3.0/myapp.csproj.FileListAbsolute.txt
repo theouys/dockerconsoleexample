@@ -1,0 +1,11 @@
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp.deps.json
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp.runtimeconfig.json
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp.runtimeconfig.dev.json
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp.dll
+/Users/theo/Desktop/Development/docker/app/bin/Debug/netcoreapp3.0/myapp.pdb
+/Users/theo/Desktop/Development/docker/app/obj/Debug/netcoreapp3.0/myapp.csprojAssemblyReference.cache
+/Users/theo/Desktop/Development/docker/app/obj/Debug/netcoreapp3.0/myapp.AssemblyInfoInputs.cache
+/Users/theo/Desktop/Development/docker/app/obj/Debug/netcoreapp3.0/myapp.AssemblyInfo.cs
+/Users/theo/Desktop/Development/docker/app/obj/Debug/netcoreapp3.0/myapp.dll
+/Users/theo/Desktop/Development/docker/app/obj/Debug/netcoreapp3.0/myapp.pdb
